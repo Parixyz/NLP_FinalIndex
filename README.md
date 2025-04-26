@@ -1,8 +1,7 @@
 # Repositories:
 
 1. **Enhanced LogicQA via Informative Instance Selection**
-   
-   The Jupyter Notebook and the saved results files are included in this repo.
+      The Jupyter Notebook and the saved results files are included in this repo.
 
 3. **VisualHead**  
    URL: [https://github.com/Parixyz/Rule-Aware-Visual-Reasoning--VisualHead](https://github.com/Parixyz/Rule-Aware-Visual-Reasoning--VisualHead)  
