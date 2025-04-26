@@ -9,8 +9,8 @@
    Description: Execution engine for the project.
 
 3. **Text2DSL**  
-   URL: [https://github.com/Parixyz/Rule-Aware-Visual-Reasoning--Text2DSL](https://github.com/Parixyz/Rule-Aware-Visual-Reasoning--Text2DSL)  
-   Description: Converts text to DSL format.
+   URL: [https://github.com/Parixyz/Rule-Aware-Visual-Reasoning--ExecutionEngine-](https://github.com/Parixyz/Rule-Aware-Visual-Reasoning--ExecutionEngine-)  
+   Description:   same Link for both.
 
 4. **3DSceneNLI**  
    URL: [https://github.com/Parixyz/3DSceneNLI](https://github.com/Parixyz/3DSceneNLI)  
