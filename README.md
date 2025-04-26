@@ -1,6 +1,6 @@
 # Repositories:
 
-1. **Enhanced LogicQA via Informative Instance Selection**
+1. **Enhanced LogicQA via Informative Instance Selection:**
       The Jupyter Notebook and the saved results files are included in this repo.
 
 3. **VisualHead**  
